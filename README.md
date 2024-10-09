@@ -1,1 +1,1 @@
-## This a Book Store Application 📕
+## This is a Book Store Application.
